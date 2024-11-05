@@ -40,7 +40,7 @@ public class Zmienne {
         System.out.println("Mój napis " + napis);
 
         boolean sun = true; //false
-        // https://github.com/przemjan/czwartaCgr2r2024
+        // https://github.com/przemjan/trzeciaCgr3r2024v2
 
     }
 }
